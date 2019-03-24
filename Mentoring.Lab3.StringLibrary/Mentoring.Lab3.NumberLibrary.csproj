@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mentoring.Lab3.ParsingLibrary\Mentoring.Lab3.SymbolLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
